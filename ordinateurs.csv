@@ -1,0 +1,20 @@
+Nom;Type;Fabricant;Modele;Numero_serie;Utilisateur;RAM_Go;Stockage_Go;Ports;Commentaire
+Mac Book R_FVFD4ASVMNHP;Ordinateur portable;;Mac Book R;FVFD4ASVMNHP;Louisa;;;;
+Mac Book Pro_C02GC1KFMD6R;Ordinateur portable;;Mac Book Pro;C02GC1KFMD6R;Alex;32 Go;512 Go;4 USB-C 1 jack;2,4 GHz 8-Core Intel Core i9
+HP Pro Book 640 G2_5CG6430VN2;Ordinateur portable;HP;HP Pro Book 640 G2;5CG6430VN2;Déborah;32 Go;932 Go;1RJ45,2USB,1USBC,1HDMI,1AUX;
+HP Note Book_CND4212987;Ordinateur portable;;HP Note Book;CND4212987;Anthony;16 Go;500 Go;1RJ45,1HDMI,1USBC,2USB;12th Gen Intel(R) Core(TM) i3-1215U (1.20 GHz)
+PROBOOK_5CG9121CZB;Ordinateur portable;HP;PROBOOK;5CG9121CZB;Romain;32 Go;1 To;1RJ45, 3USB, 1USBC, 1AUX, 1SIM , 1VGA, 1 carte;i5, 2RAMx16
+Lenovo Y540_PF1ZYHAM;Ordinateur portable;Lenovo;Lenovo Y540;PF1ZYHAM;Elhoussayn;16 Go;1T500;3USB, 1AUX, 1RJ45, 1HDMI, 1USBC;i5, GTX1650
+Mac_CVVKJL7PKQ;Ordinateur portable;Apple;Mac;CVVKJL7PKQ;Amel;8 Go;245 Go;2 usb-c;Puce M2
+Aspire A317-53_NXADOEF3230F4583400;Ordinateur portable;Acer;Aspire A317-53;NXADOEF3230F4583400;Sandrine;8 Go;500 Go;3USB, 1HDMI, 1RJ45;i5
+Mac Book R_FVFZ77R2LYWK;Ordinateur portable;Apple;Mac Book R;FVFZ77R2LYWK;Myke;8 Go;256 Go;2 USB-C 1 jack;1,6 GHz Intel Core i5 double cœur
+Latitude 7480_42LG5M2;Ordinateur portable;Dell;Latitude 7480;42LG5M2;;;;3 USB;
+Latitude7480_J4CH4M2;Ordinateur portable;Dell;Latitude7480;J4CH4M2;;;;3;
+Vostro_9MSZKR2;Ordinateur portable;Dell;Vostro;9MSZKR2;;;;3;
+Vostro_487ZKR2;Ordinateur portable;Dell;Vostro;487ZKR2;;;;3;
+ProBook 640 G2_5CG6430781;Ordinateur portable;HP;ProBook 640 G2;5CG6430781;;;;2;
+ProBook 640 G2_5CG6430205;Ordinateur portable;HP;ProBook 640 G2;5CG6430205;;;;2;
+ideapad 320S_MP1BRN0R;Ordinateur portable;Lenovo;ideapad 320S;MP1BRN0R;;;;2;
+inspiron_4KPY7T2;Ordinateur portable;Dell;inspiron;4KPY7T2;;;;3;
+inspiron_DB508T2;Ordinateur portable;Dell;inspiron;DB508T2;;;;3;
+inspiron_D9WY7T2;Ordinateur portable;Dell;inspiron;D9WY7T2;;;;3;
